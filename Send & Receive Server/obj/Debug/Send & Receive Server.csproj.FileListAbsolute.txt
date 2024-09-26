@@ -1,0 +1,10 @@
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\bin\Debug\Send & Receive Server.exe.config
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\bin\Debug\Send & Receive Server.exe
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\bin\Debug\Send & Receive Server.pdb
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\obj\Debug\Send & Receive Server.csproj.AssemblyReference.cache
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\obj\Debug\Send___Receive_Server.Form1.resources
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\obj\Debug\Send___Receive_Server.Properties.Resources.resources
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\obj\Debug\Send & Receive Server.csproj.GenerateResource.cache
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\obj\Debug\Send & Receive Server.csproj.CoreCompileInputs.cache
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\obj\Debug\Send & Receive Server.exe
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\Project\Send & Receive Server\obj\Debug\Send & Receive Server.pdb
